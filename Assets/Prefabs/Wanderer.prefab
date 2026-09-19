@@ -101,6 +101,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5784422806620104930}
+  - component: {fileID: 2029080608725378769}
   - component: {fileID: 1243693605031966021}
   - component: {fileID: 8273327772177117190}
   m_Layer: 0
@@ -126,6 +127,21 @@ Transform:
   - {fileID: 7697927266946148556}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2029080608725378769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4080913331580703680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e21ae2c91c5c56f47852ad5f4ec139ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Wanderer
+  target: {fileID: 0}
+  wanderSpeed: 2
+  wanderStrength: 0.05
 --- !u!50 &1243693605031966021
 Rigidbody2D:
   serializedVersion: 5

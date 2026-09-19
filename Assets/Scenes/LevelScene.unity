@@ -44038,6 +44038,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2345567189997449323, guid: fab7071a9be3c764ca6a8d1ab4b5c02e, type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 5663344490531047686}
     - target: {fileID: 3792785114608939534, guid: fab7071a9be3c764ca6a8d1ab4b5c02e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 24.46
@@ -44082,6 +44086,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Chaser
       objectReference: {fileID: 0}
+    - target: {fileID: 9101485181165270725, guid: fab7071a9be3c764ca6a8d1ab4b5c02e, type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 5663344490531047686}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -44146,6 +44154,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coward
       objectReference: {fileID: 0}
+    - target: {fileID: 4426691059311661287, guid: eb23a736ba534894cac2b5b06fe1ce32, type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 5663344490531047686}
     - target: {fileID: 5260784633620227452, guid: eb23a736ba534894cac2b5b06fe1ce32, type: 3}
       propertyPath: m_LocalPosition.x
       value: 12
@@ -44186,6 +44198,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7904561841525200188, guid: eb23a736ba534894cac2b5b06fe1ce32, type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 5663344490531047686}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -44871,6 +44887,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2029080608725378769, guid: 60cd851b645af1844b2af5e3b09c19fa, type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 5663344490531047686}
     - target: {fileID: 4080913331580703680, guid: 60cd851b645af1844b2af5e3b09c19fa, type: 3}
       propertyPath: m_Name
       value: Wanderer
@@ -44915,6 +44935,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7174621718733574163, guid: 60cd851b645af1844b2af5e3b09c19fa, type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 5663344490531047686}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
